@@ -1,0 +1,10 @@
+img{
+	border-style: ridge;
+	border-color: black;
+	border-width: thick;
+	padding: 1%;
+}
+
+td{
+	padding: 10%;
+}
